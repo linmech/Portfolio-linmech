@@ -461,7 +461,7 @@ textarea {
     line-height: 1.7;
     color: grey;
     margin-bottom: 2rem; }
-  .project-details__desc-blpt {
+  ul.project-details__desc-blpt {
     list-style-type: disc;
     font-size: 1.8rem;
     line-height: 1.7;
