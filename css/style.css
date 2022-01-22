@@ -47,7 +47,12 @@ a {
   color: inherit; }
 
 li {
-  list-style: disc; }
+  list-style: disc;
+  font-size: 1.8rem;
+  line-height: 1.7;
+  color: grey;
+  margin-bottom: 2rem;
+}
 
 input:focus,
 button:focus,
@@ -457,12 +462,6 @@ textarea {
 .project-details__desc {
   margin: 0 0 7rem 0; }
   .project-details__desc-para {
-    font-size: 1.8rem;
-    line-height: 1.7;
-    color: grey;
-    margin-bottom: 2rem; }
-  ul.project-details__desc-blpt {
-    list-style-type: disc;
     font-size: 1.8rem;
     line-height: 1.7;
     color: grey;
