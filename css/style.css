@@ -48,8 +48,9 @@ a {
 
 li {
   list-style: disc;
+  list-style: inside;
   font-size: 1.8rem;
-  line-height: 1.7;
+  line-height: 1;
   color: grey;
   margin-bottom: 2rem;
 }
